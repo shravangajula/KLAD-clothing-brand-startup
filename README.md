@@ -14,10 +14,10 @@ Installation
 To run the AR/VR Clothing Try-On Demo locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/ar-vr-clothing-demo.git
+git clone https://github.com/shravangajula/KLAD-clothing-brand-startup.git
 
 Navigate to the project directory:
-cd ar-vr-clothing-demo
+cd KLAD-clothing-brand-startu
 
 Install dependencies:
 npm install
